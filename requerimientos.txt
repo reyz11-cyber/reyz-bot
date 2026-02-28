@@ -1,5 +1,0 @@
-tiktoken
-pillow
-google-generativeai
-openai
-python-dotenv
